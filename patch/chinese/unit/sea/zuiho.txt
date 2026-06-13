@@ -1,0 +1,1 @@
+﻿{"unitName":"瑞凤","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["瑞凤","祥凤"],"instancesInClass":["zuiho","shoho"]}

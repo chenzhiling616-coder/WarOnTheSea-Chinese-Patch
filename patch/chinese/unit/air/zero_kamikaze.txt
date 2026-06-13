@@ -1,0 +1,1 @@
+﻿{"unitName":"零式舰战（神风特攻）","weaponDescriptions":["机枪|2x 20mm 机炮","|2x 机枪","|","挂载|bomb_ij_250kg"],"payloadDisplayNames":["神风特攻"],"payloadIndexes":["0"],"endurance":[0.67]}

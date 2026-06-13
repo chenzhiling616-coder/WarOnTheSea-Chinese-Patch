@@ -1,0 +1,1 @@
+﻿{"unitName":"布鲁克林","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["布鲁克林","费城","萨凡纳","纳什维尔","菲尼克斯","博伊西","火奴鲁鲁","圣路易斯","海伦娜"],"instancesInClass":["brooklyn","philadelphia","savannah","nashville","pheonix","boise","honolulu","st. louis","helena"]}

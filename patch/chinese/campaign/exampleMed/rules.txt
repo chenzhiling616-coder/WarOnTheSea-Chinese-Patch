@@ -1,0 +1,4 @@
+﻿友方国家<NATIONS0>\n\n敌方国家<NATIONS1>\n\n友方母港<HOMES>\n港口最高等级\n机场最高等级\n\n<b>指挥点数</b>\n初始\n\n每周\n	每个友方据点\n	每级港口\n	每级机场\n	合计：\n\n解除编制返还\n击沉敌舰收益\n\n<b>解除编制与维修时间</b>\n全部舰船基础天数\n每损毁一处区段增加天数\n\n<b>空中行动</b>\n无法执行时段
+<NATIONS0>\n\n<NATIONS1>\n\n<HOMES>\n<MAXPORT>\n<MAXAIRFIELD>\n\n\n<COMMANDSTART>\n\n<WEEKLYCP>\n<CPLOCATION>\n<CPPORT>\n<CPAIRFIELD>\n<CPTOTAL>\n\n<COMMANDRELEASE>\n<COMMANDONSUNK>\n\n\n<REPAIRTIME>\n<REPAIRCOMP>\n\n\n<AIRHOURS>
+<b>母港获得\n每周</b>\n	兵员\n	补给\n	工程物资\n	燃油\n\n\n<b>据点等级							1					2					3					4					5</b>\n\n<b>升级费用</b>\n补给\n工程物资\n燃油\n\n<b>港口加成</b>\n侦测范围\n补充舰船弹药\n解除舰船编制\n\n<b>机场加成</b>\n侦测范围\n<AIRCRAFT>\n\n友方0级据点的对敌侦测范围为<BASESPOT>。\n港口与机场的侦测范围加成可叠加。\n侦测范围为最大值，并将随时段与天气状况降低。
+<RTROOPS>\n<RSUPPLIES>\n<RENGINEER>\n<RFUEL>

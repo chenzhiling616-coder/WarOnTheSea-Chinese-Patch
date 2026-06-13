@@ -1,0 +1,13 @@
+﻿Image={"path":"interface/tutorial/typeToggle.png","pos":{"x":0.0,"y":-127.0}}
+Image=
+Image=
+<b>在海上与空中单位间切换</b>
+来自企业号（USS Enterprise）的一架野猫战斗机正在空域中，我们可以切换到它来练习操控飞机。
+
+缩小地图，直到能同时看到该飞机和波特号。确保未处于目标模式 <KEY:TargetMode> 或导航模式 <KEY:NavigationMode>，然后用 <KEY:LeftMouse> 点击飞机图标，镜头会立即切换到该机并取得直接控制权。你也可以在 3D 视图中直接用 <KEY:LeftMouse> 点击单位，效果相同。
+
+<i>注意：用 <KEY:LeftMouse> 点击敌方单位会将镜头移动到该单位，但保持原受控单位不变。 </i>
+
+或者；
+1) 使用左下方的"海上/空中切换"图标在空中或海上单位之间切换。
+2) 用 <KEY:LeftMouse> 点击小箭头图标，跳转到该单位并取得直接控制权。

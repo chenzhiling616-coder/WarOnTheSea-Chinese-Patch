@@ -1,0 +1,1 @@
+﻿{"unitName":"黄蜂","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["黄蜂"],"instancesInClass":["wasp"]}

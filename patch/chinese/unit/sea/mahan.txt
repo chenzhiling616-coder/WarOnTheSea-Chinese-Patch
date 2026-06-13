@@ -1,0 +1,1 @@
+﻿{"unitName":"马汉","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["马汉","卡明斯","德雷顿","拉姆森","弗卢瑟","里德","凯斯","科宁厄姆","卡辛","肖","塔克","唐斯","库欣","珀金斯","史密斯","普雷斯顿","邓拉普","范宁"],"instancesInClass":["mahan","cummings","drayton","lamson","flusser","reid","case","conyngham","cassin","shaw","tucker","downes","cushing","perkins","smith","preston","dunlap","fanning"]}

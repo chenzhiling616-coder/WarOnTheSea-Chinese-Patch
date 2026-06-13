@@ -1,0 +1,1 @@
+﻿{"unitName":"海象","weaponDescriptions":["机枪|2x 机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

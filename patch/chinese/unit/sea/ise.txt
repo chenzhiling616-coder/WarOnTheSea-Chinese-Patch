@@ -1,0 +1,1 @@
+﻿{"unitName":"伊势","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["伊势","日向"],"instancesInClass":["ise","hyuga"]}

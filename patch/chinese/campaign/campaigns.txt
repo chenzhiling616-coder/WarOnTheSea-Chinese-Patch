@@ -1,0 +1,17 @@
+﻿campaign001=瞭望台行动=7,8,1942=指挥盟军部队，将敌军全部逐出所罗门群岛南部，在瓜达尔卡纳尔岛修建机场，阻止日军继续向南扩张。=forceSettings=2,2,2,2,2,2,2,2,2,2
+campaign002=瓜达尔卡纳尔海战=7,8,1942=指挥日本帝国军队，完成瓜达尔卡纳尔岛机场的修建，确保盟军无法在所罗门群岛南部立足。=forceSettings=2,2,2,2,2,2,2,2,2,2
+//
+//forceSettings=2,2,2,2,2,2,2,2,2,2
+//Use this to force a campaign setting to FALSE (0) or TRUE (1) or USER CHOICE (2)
+//
+//10 Values must be listed and correspond to following settings
+//0-Enemy Uses Submarines
+//1-Enemy Uses Aircraft Carriers
+//2-Refund Command Points Post Rest & Repair
+//3-New Carrier Aircraft Require Release
+//4-Use Port Resources To Resupply Ship Ammo
+//5-Use Port Resources To Resupply Ship Aircraft
+//6-Use Port Resources To Replenish Airfields
+//7-Limit Airfield Aircraft Replenished
+//8-Allow Merchants/Oilers to Resupply At Sea
+//9-Enable Strategic Bombing

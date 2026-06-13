@@ -1,0 +1,1 @@
+﻿{"unitName":"扶桑","weaponDescriptions":["九六式 25mm 机炮","九三式 13.2mm 机枪"],"namesInClass":["扶桑","山城"],"instancesInClass":["fuso","yamashiro"]}

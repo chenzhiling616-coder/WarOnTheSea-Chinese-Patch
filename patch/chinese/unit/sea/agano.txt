@@ -1,0 +1,1 @@
+﻿{"unitName":"阿贺野","weaponDescriptions":["九六式 25mm 机炮","九三式 13.2mm 机枪"],"namesInClass":["阿贺野","能代","矢矧","酒匂"],"instancesInClass":["agano","noshiro","yhagi","sakawa"]}

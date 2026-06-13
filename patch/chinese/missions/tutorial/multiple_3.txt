@@ -1,0 +1,5 @@
+﻿Image={"path":"interface/tutorial/rosterSelect.png","pos":{"x":0.0,"y":-40.0}}
+Image=
+Image=
+<b>名册选择</b>
+注意：按住 SHIFT + <KEY:LeftMouse> 点击名册标签可选中更多单位。这会选中被点击单位与当前受控单位之间的所有单位。同样，点击已选中的单位会取消选中相应的这些单位。

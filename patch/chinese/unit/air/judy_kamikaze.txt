@@ -1,0 +1,1 @@
+﻿{"unitName":"彗星舰爆（神风特攻）","weaponDescriptions":["机枪|3x 机枪","|","挂载|bomb_ij_800kg_ap"],"payloadDisplayNames":["神风特攻"],"payloadIndexes":["0"],"endurance":[0.67]}

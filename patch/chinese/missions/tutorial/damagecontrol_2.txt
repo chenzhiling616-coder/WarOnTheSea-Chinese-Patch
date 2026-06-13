@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/dcHull.png","pos":{"x":0.0,"y":55.0}}
+Image={"path":"interface/tutorial/dcDeck.png","pos":{"x":0.0,"y":-96.0}}
+Image=
+<b>船体与甲板视图</b>
+2) 船体视图（上方）
+网格显示船体内的各水密舱段。图标表示舱段内是否装有特定子系统。
+
+
+
+
+
+
+3) 甲板视图（下方）
+图标显示舰上的各类子系统。位于甲板上或甲板以上的子系统不会进水。
+
+
+
+
+
+
+用 <KEY:LeftMouse> 点击任意舱段或子系统，可指派/撤回一支损管队。

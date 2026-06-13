@@ -1,0 +1,1 @@
+﻿{"unitName":"西姆斯","namesInClass":["西姆斯","休斯","安德森","哈曼","马斯廷","拉塞尔","奥布赖恩","沃克","莫里斯","罗","温赖特","巴克"],"instancesInClass":["sims","hughes","anderson","hammann","mustin","russell","o'brien","walke","morris","roe","wainwright","buck"]}

@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>选择单位</b>
+切换受控单位有多种方式：
+1) 用 <KEY:LeftMouse> 点击我方单位的地图图标。
+2) 用 <KEY:LeftMouse> 点击 3D 世界中的我方单位。
+3) 用 <KEY:LeftMouse> 点击名册列表中该单位的箭头。
+4) 若日志消息涉及友方单位，用 <KEY:LeftMouse> 点击该消息的箭头。
+
+选中更多单位以下达命令也有多种方式：
+1) SHIFT + <KEY:LeftMouse> 并拖动，在地图上框选单位。
+2) 用 <KEY:LeftMouse> 点击名册下方的"全选"按钮（选中/取消选中全部）。
+3) 用 <KEY:LeftMouse> 点击名册中的名字，切换其高亮/选中状态。
+4) 用 <KEY:LeftMouse> 点击编组颜色标签，选中该编组内的所有单位。
+5) 使用 <KEY:SelectMode> 进入选择模式，用 <KEY:LeftMouse> 点击地图图标切换其高亮/选中状态。再次使用 <KEY:SelectMode> 或 <KEY:Cancel> 退出选择模式。
+6) 使用 <KEY:SelectMode> 进入选择模式，用 <KEY:LeftMouse> 点击 3D 世界中的单位切换其高亮/选中状态。再次使用 <KEY:SelectMode> 或 <KEY:Cancel> 退出选择模式。
+
+<i>受控单位的地图图标为黄色。选中单位的地图图标为绿色。其他单位为白色。当前单位的目标为红色。</i>

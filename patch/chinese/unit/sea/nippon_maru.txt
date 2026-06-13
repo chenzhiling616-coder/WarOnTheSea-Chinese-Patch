@@ -1,0 +1,1 @@
+﻿{"unitName":"日本丸","weaponDescriptions":["13.2mm 九三式机枪"]}

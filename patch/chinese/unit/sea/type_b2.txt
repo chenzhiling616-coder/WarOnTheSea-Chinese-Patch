@@ -1,0 +1,1 @@
+﻿{"unitName":"乙型改二（伊号）","weaponDescriptions":["25mm 九六式机炮"],"namesInClass":["伊-40","伊-41","伊-42","伊-43","伊-44","伊-45"],"instancesInClass":["i-40","i-41","i-24","i-43","i-44","i-45"]}

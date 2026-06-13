@@ -1,0 +1,1 @@
+﻿{"unitName":"零式水观","weaponDescriptions":["机枪|1x 机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

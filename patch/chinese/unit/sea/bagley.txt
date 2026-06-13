@@ -1,0 +1,1 @@
+﻿{"unitName":"巴格利","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["巴格利","布卢","赫尔姆","马格福德","拉尔夫·塔尔伯特","亨利","帕特森","贾维斯"],"instancesInClass":["bagley","blue","helm","mugford","ralph talbot","henley","patterson","jarvis"]}

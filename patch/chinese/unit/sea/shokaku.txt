@@ -1,0 +1,1 @@
+﻿{"unitName":"翔鹤","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["翔鹤","瑞鹤"],"instancesInClass":["shokaku","zuikaku"]}

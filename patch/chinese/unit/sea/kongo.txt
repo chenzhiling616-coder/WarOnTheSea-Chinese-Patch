@@ -1,0 +1,1 @@
+﻿{"unitName":"金刚","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["金刚","比叡","雾岛","榛名"],"instancesInClass":["kongo","hiei","kirishima","haruna"]}

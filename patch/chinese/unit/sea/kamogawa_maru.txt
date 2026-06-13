@@ -1,0 +1,1 @@
+﻿{"unitName":"鸭川丸","weaponDescriptions":["13.2mm 九三式机枪"]}

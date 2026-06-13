@@ -1,0 +1,1 @@
+﻿{"unitName":"地狱猫","weaponDescriptions":["机枪|6x 机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

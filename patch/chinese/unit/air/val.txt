@@ -1,0 +1,1 @@
+﻿{"unitName":"九九式舰爆","weaponDescriptions":["机枪|3x 机枪","|","挂载|bomb_ij_250kg_ap","|bomb_ij_250kg","|bomb_ij_60kg"],"payloadDisplayNames":["1x 250公斤穿甲弹, 2x 60公斤高爆弹","1x 250公斤高爆弹, 2x 60公斤高爆弹","无"],"payloadIndexes":["0","1","2"],"endurance":[0.67,0.67,1]}

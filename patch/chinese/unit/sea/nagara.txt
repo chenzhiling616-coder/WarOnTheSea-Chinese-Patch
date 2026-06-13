@@ -1,0 +1,1 @@
+﻿{"unitName":"长良","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["长良","五十铃","名取","由良","鬼怒","阿武隈"],"instancesInClass":["nagara","isuzu","natori","yura","kinu","abukuma"]}

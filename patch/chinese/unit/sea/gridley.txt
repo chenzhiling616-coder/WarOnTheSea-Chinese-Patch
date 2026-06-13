@@ -1,0 +1,1 @@
+﻿{"unitName":"格里德利","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["格里德利","克雷文","麦考尔","莫里"],"instancesInClass":["gridley","craven","mccall","maury"]}

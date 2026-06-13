@@ -1,0 +1,1 @@
+﻿{"unitName":"北卡罗来纳","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["北卡罗来纳","华盛顿"],"instancesInClass":["north carolina","washington"]}

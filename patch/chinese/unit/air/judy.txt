@@ -1,0 +1,1 @@
+﻿{"unitName":"彗星舰爆","weaponDescriptions":["机枪|3x 机枪","|","挂载|bomb_ij_800kg_ap","|bomb_ij_800kg","|bomb_ij_500kg"],"payloadDisplayNames":["1x 800公斤穿甲弹","1x 800公斤高爆弹","1x 500公斤高爆弹","无"],"payloadIndexes":["0","1","2","3"],"endurance":[0.67,0.67,0.80,1.0]}

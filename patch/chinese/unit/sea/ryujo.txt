@@ -1,0 +1,1 @@
+﻿{"unitName":"龙骧","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["龙骧"],"instancesInClass":["ryujo"]}

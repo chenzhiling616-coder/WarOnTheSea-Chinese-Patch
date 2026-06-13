@@ -1,0 +1,1 @@
+﻿{"unitName":"坦博尔","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["坦博尔","托托格","长尾鲨","特里同","鳟鱼","金枪鱼","雀鳝","逆戟鲸","灰背鱼","茴鱼","长尾鳕","鮈鱼"],"instancesInClass":["tambor","tautog","thresher","triton","trout","tuna","gar","grampus","grayback","grayling","grenadier","gudgeon"]}

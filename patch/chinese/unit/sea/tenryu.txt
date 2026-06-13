@@ -1,0 +1,1 @@
+﻿{"unitName":"天龙","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["天龙","龙田"],"instancesInClass":["tenryu","tatsuta"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"萨默斯","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["萨默斯","沃灵顿","桑普森","戴维斯","朱伊特"],"instancesInClass":["somers","warrington","sampson","davis","jouett"]}

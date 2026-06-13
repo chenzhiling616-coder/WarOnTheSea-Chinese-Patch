@@ -1,0 +1,20 @@
+﻿//Designation=Abbreviation=Display Name
+//Only edit abbreviations and Display Names here
+Submarine=SS=潜艇
+Destroyer_Escort=DE=护航驱逐舰
+Destroyer=DD=驱逐舰
+Light_Cruiser=CL=轻巡洋舰
+Heavy_Cruiser=CA=重巡洋舰
+Battlecruiser=BC=战列巡洋舰
+Battleship=BB=战列舰
+Light_Carrier=CVL=轻型航空母舰
+Aircraft_Carrier=CV=航空母舰
+Oiler=AO=油船
+Merchant=MS=商船
+Scout=S=侦察机
+Fighter=F=战斗机
+Dive_Bomber=DB=俯冲轰炸机
+Torpedo_Bomber=TB=鱼雷轰炸机
+Medium_Bomber=MB=中型轰炸机
+Heavy_Bomber=HB=重型轰炸机
+//Additional Designations (any order)

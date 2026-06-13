@@ -1,0 +1,1 @@
+﻿{"unitName":"C3 货船","weaponDescriptions":["20mm 厄利孔机炮"]}

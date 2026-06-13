@@ -1,0 +1,1 @@
+﻿{"unitName":"古鹰","weaponDescriptions":["九六式 25mm 机炮","九三式 13.2mm 机枪"],"namesInClass":["古鹰","加古"],"instancesInClass":["furutaka","kako"]}

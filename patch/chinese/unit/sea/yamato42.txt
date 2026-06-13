@@ -1,0 +1,1 @@
+﻿{"unitName":"大和（1942）","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["大和","武藏"],"instancesInClass":["yamato","musashi"]}

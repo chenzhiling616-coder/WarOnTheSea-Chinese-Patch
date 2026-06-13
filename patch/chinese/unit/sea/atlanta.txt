@@ -1,0 +1,1 @@
+﻿{"unitName":"亚特兰大","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["亚特兰大","朱诺","圣迭戈","圣胡安","奥克兰","里诺","弗林特","图森"],"instancesInClass":["atlanta","juneau","san diego","san juan","oakland","reno","flint","tucson"]}

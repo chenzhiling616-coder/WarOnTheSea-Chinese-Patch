@@ -1,0 +1,1 @@
+﻿{"unitName":"法拉格特","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["法拉格特","杜威","赫尔","麦克多诺","沃登","戴尔","莫纳汉","艾尔温"],"instancesInClass":["farragut","dewey","hull","mcdonough","worden","dale","monaghan","aylwin"]}

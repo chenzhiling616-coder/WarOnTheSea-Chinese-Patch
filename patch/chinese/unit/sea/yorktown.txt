@@ -1,0 +1,1 @@
+﻿{"unitName":"约克城","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["约克城","企业","大黄蜂"],"instancesInClass":["yorktown","enterprise","hornet"]}

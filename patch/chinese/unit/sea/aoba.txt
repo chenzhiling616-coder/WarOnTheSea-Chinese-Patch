@@ -1,0 +1,1 @@
+﻿{"unitName":"青叶","weaponDescriptions":["九六式 25mm 机炮","九三式 13.2mm 机枪"],"namesInClass":["青叶","衣笠"],"instancesInClass":["aoba","kinugasa"]}

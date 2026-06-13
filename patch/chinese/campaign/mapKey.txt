@@ -1,0 +1,4 @@
+﻿<b><size=18>图标颜色</size></b>\n\n友方\n\n敌方\n\n中立\n\n选中
+<b><size=18>海上与空中</size></b>\n\n潜艇\n\n护航舰\n\n运输船 / 船队\n\n巡洋舰\n\n战列舰\n\n航空母舰\n\n侦察机\n\n战斗机\n\n俯冲轰炸机\n\n鱼雷轰炸机\n\n中型轰炸机\n\n重型轰炸机
+<b><size=18>据点</size></b>\n\n港口与机场\n\n母港
+<b><size=18>天气</size></b>\n\n云量图标：\n少云\n\n\n\n\n多云\n\n\n\n\n阴天\n\n\n\n\n\n雨\n雪\n\n\n\n\n风暴\n暴风雪\n\n                             数字表示海况/风速

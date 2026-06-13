@@ -1,0 +1,1 @@
+﻿{"unitName":"波特","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["波特","塞尔弗里奇","麦克杜格尔","温斯洛","菲尔普斯","克拉克","莫菲特","鲍尔奇"],"instancesInClass":["porter","selfridge","mcdougal","winslow","phelps","clark","moffett","balch"]}

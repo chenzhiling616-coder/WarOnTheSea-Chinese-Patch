@@ -1,0 +1,19 @@
+﻿Image={"path":"interface/tutorial/mapMarker.png","pos":{"x":176.0,"y":-48.0}}
+Image=
+Image=
+<b>地图工具</b>
+
+标尺：
+使用 <KEY:MapRuler> 并拖动，可测量地图上两点之间的距离和方位。
+
+
+标记：
+使用 <KEY:MapMarker> 在地图上放置带时间戳的地图标记。
+使用文本框为标记添加自定义名称。
+使用滑块更改标记图标，可在几何形状与
+舰船或飞机类型之间切换，以表示所标记的内容。
+用 <KEY:LeftMouse> 点击移除可删除标记。
+用 <KEY:LeftMouse> 点击面板右上角的 X 关闭标记编辑器。
+
+用 <KEY:LeftMouse> 点击已有的地图标记可打开并编辑它。
+将鼠标悬停在地图标记上可查看其详细信息。

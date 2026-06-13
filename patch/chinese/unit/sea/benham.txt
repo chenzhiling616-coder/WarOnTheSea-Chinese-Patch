@@ -1,0 +1,1 @@
+﻿{"unitName":"本厄姆","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["本厄姆","埃利特","朗","梅兰特","特里普","赖恩德","罗恩","斯塔克","斯特雷特","威尔逊"],"instancesInClass":["benham","ellet","lang","mayrant","trippe","rhind","rowan","stack","sterett","wilson"]}

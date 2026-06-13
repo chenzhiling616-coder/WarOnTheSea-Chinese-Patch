@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>其他镜头操作</b>
+追尾镜头
+使用 <KEY:ChaseCam> 切换追尾镜头。左右移动镜头会立即取消追尾镜头。
+
+目标锁视
+将波特号设为目标（<KEY:TargetMode>，然后用 <KEY:LeftMouse> 点击地图上的波特号图标）。
+使用 <KEY:FollowCam> 或辅助工具栏中的按钮锁定镜头，使其始终注视受控单位的目标。
+<i>左右移动镜头会立即取消锁视镜头。</i>
+
+冻结镜头
+使用 <KEY:FreezeCamera> 强制镜头停止或恢复跟随单位。
+
+准备就绪后，结束任务；
+1) 用 <KEY:LeftMouse> 点击工具栏中的菜单按钮，或使用 <KEY:Menu>。
+2) 用 <KEY:LeftMouse> 点击 QUIT（退出）和 CONFIRM（确认）按钮结束任务。

@@ -1,0 +1,19 @@
+﻿Image={"path":"interface/tutorial/multipleHighlighted.png","pos":{"x":226.0,"y":21.0}}
+Image=
+Image=
+<b>变换海上编队</b>
+波特号、克拉克号和莫菲特号 3 艘驱逐舰正以 500 米间距排成单横队。
+<i>记住按需使用地图操作：
+<KEY:MouseWheel> 或 <KEY:ZoomIn> 和 <KEY:ZoomOut> 缩放地图，<KEY:LeftMouse> 并拖动可平移视图。
+使用 <KEY:LockMap> 将地图锁定在镜头跟随的单位上。拖动地图会解除锁定。</i>
+
+用 <KEY:LeftMouse> 点击波特号标签（或地图图标）中的箭头图标，取得波特号的控制权。
+按住 SHIFT + <KEY:LeftMouse> 在地图上拖出选框，选中克拉克号和莫菲特号。
+<i>波特号的地图图标应为黄色（受控），克拉克号和莫菲特号为绿色（选中）。</i>
+
+打开命令面板（<KEY:Orders>），用 <KEY:LeftMouse> 点击 Form Up（编队集结）按钮。
+3 艘驱逐舰会立即按下拉菜单和滑块的设置，以 500 米间距组成单纵队，并被赋予新的编组颜色。
+
+试着调整下拉菜单和滑块，尝试不同的编队队形和间距设置。
+完成后，让各舰以波特号为领舰、500 码间距组成单横队。
+提示：用 <KEY:LeftMouse> 点击地图上的波特号图标，用 <KEY:LeftMouse> 点击名册中克拉克号和莫菲特号的名字，下拉菜单设为单横队，滑块设为 500，然后用 <KEY:LeftMouse> 点击 Form Up 按钮。

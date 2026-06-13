@@ -1,0 +1,1 @@
+﻿{"nextAction":"SUMMARY","header":"战败","content":"<size=18><b><DATE></b></size>\n帝国海军与陆军未能守住瓜达尔卡纳尔岛，这对帝国是一记沉重打击。\n\n中途岛与瓜达尔卡纳尔的接连失利表明，太平洋战争的大势已转而不利于日本。此役损失的人员与物资难以补充，帝国在太平洋的后续作战将处处受限。\n\n海军大将山本五十六对与美国开战的预言已然应验：\n<i>“我可以纵横驰骋六个月……此后，便再无取胜的把握。”</i>","imagePath":"campaign/image/alliedFleet.jpg","musicIndex":12}

@@ -1,0 +1,1 @@
+﻿{"unitName":"新奥尔良","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["新奥尔良","阿斯托里亚","明尼阿波利斯","塔斯卡卢萨","旧金山","昆西","文森斯"],"instancesInClass":["new orleans","astoria","minneapolis","tuscaloosa","san francisco","quincy","vincennes"]}

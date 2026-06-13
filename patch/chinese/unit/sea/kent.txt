@@ -1,0 +1,1 @@
+﻿{"unitName":"肯特","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["贝里克","坎伯兰","萨福克","肯特","康沃尔","澳大利亚","堪培拉","伦敦","德文郡","萨塞克斯","什罗普郡","诺福克","多塞特郡"],"instancesInClass":["berwick","cumberland","suffolk","kent","cornwall","australia","canberra","london","devonshire","sussex","shropshire","norfolk","dorsetshire"]}

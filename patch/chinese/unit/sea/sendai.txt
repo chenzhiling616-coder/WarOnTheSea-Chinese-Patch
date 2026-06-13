@@ -1,0 +1,1 @@
+﻿{"unitName":"川内","weaponDescriptions":["25mm 九六式机炮","13.2mm 九三式机枪"],"namesInClass":["川内","神通","那珂"],"instancesInClass":["sendai","jintsu","naka"]}

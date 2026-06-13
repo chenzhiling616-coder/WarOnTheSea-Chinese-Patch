@@ -1,0 +1,1 @@
+﻿{"unitName":"樅","namesInClass":["樅","榧","梨","竹","柿","栂","榆","栗","菊","葵","萩","藤","薄","菱","莲","蕨","蓼","堇","茑","苇","蓬"],"instancesInClass":["momi","kaya","nashi","take","kaki","tsuga","nire","kuri","kiku","aoi","hagi","fuji","susuki","hishi","hasu","warabi","tade","sumire","tsuta","ashi","yomogi"]}

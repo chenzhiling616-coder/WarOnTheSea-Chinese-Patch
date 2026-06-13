@@ -1,0 +1,5 @@
+﻿Image={"path":"interface/tutorial/rosterSort.png","pos":{"x":0.0,"y":-40.0}}
+Image=
+Image=
+<b>名册排序</b>
+注意：名册中的单位可手动排序。用 <KEY:LeftMouse> 拖动单位标签即可调整名册列表顺序。改变顺序会对单位重新排序，并影响它们在编队中的位置。例如，重新排列列表后将这些单位置于单纵队，各舰将按名册列表顺序就位。

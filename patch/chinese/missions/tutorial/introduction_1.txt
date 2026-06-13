@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/secondToolbar.png","pos":{"x":260.0,"y":-67.0}}
+Image={"path":"interface/tutorial/cameraDir.png","pos":{"x":224.0,"y":-122.0}}
+Image=
+<b>镜头操作与望远镜视图</b>
+练习移动镜头。
+平移：按住 <KEY:DragCamera> 拖动，或使用 <KEY:CameraLeft>、<KEY:CameraRight>、<KEY:CameraUp> 和 <KEY:CameraDown>。
+缩放：使用 <KEY:MouseWheel> 或 <KEY:ZoomIn> 和 <KEY:ZoomOut>。
+水上/水下切换：  使用 <KEY:SwitchUnderwater> 来回切换。
+按住 <KEY:CameraDown> 平移镜头即可向上仰视。
+
+使用望远镜。
+使用 <KEY:Binoculars> 进入（或退出）望远镜视图。
+在望远镜视图中，使用与上述相同的平移、缩放和水下切换指令移动镜头。
+切换到水下会取消望远镜视图。
+
+望远镜和水下切换按钮位于小地图下方的辅助工具栏上。
+
+屏幕顶部中央显示镜头朝向的真方位（方向）。
+0 为正北，90 为正东，180 为正南，270 为正西。
+
+准备就绪后，点击"下一页"箭头继续。

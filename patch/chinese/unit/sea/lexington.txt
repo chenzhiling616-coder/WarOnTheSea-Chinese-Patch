@@ -1,0 +1,1 @@
+﻿{"unitName":"列克星敦","weaponDescriptions":["40mm 博福斯机炮","20mm 厄利孔机炮"],"namesInClass":["列克星敦","萨拉托加"],"instancesInClass":["lexington","saratoga"]}
